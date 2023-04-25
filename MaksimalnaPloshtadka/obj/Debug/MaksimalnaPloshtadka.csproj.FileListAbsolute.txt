@@ -1,0 +1,8 @@
+E:\Programming\NazybeniMnogomerniMasivi\MaksimalnaPloshtadka\bin\Debug\MaksimalnaPloshtadka.exe.config
+E:\Programming\NazybeniMnogomerniMasivi\MaksimalnaPloshtadka\bin\Debug\MaksimalnaPloshtadka.exe
+E:\Programming\NazybeniMnogomerniMasivi\MaksimalnaPloshtadka\bin\Debug\MaksimalnaPloshtadka.pdb
+E:\Programming\NazybeniMnogomerniMasivi\MaksimalnaPloshtadka\obj\Debug\MaksimalnaPloshtadka.csproj.AssemblyReference.cache
+E:\Programming\NazybeniMnogomerniMasivi\MaksimalnaPloshtadka\obj\Debug\MaksimalnaPloshtadka.csproj.SuggestedBindingRedirects.cache
+E:\Programming\NazybeniMnogomerniMasivi\MaksimalnaPloshtadka\obj\Debug\MaksimalnaPloshtadka.csproj.CoreCompileInputs.cache
+E:\Programming\NazybeniMnogomerniMasivi\MaksimalnaPloshtadka\obj\Debug\MaksimalnaPloshtadka.exe
+E:\Programming\NazybeniMnogomerniMasivi\MaksimalnaPloshtadka\obj\Debug\MaksimalnaPloshtadka.pdb

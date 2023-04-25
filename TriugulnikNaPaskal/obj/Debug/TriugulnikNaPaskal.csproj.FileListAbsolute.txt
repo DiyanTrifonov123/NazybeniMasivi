@@ -1,0 +1,8 @@
+E:\Programming\NazybeniMnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\TriugulnikNaPaskal.exe.config
+E:\Programming\NazybeniMnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\TriugulnikNaPaskal.exe
+E:\Programming\NazybeniMnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\TriugulnikNaPaskal.pdb
+E:\Programming\NazybeniMnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.csproj.AssemblyReference.cache
+E:\Programming\NazybeniMnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.csproj.SuggestedBindingRedirects.cache
+E:\Programming\NazybeniMnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.csproj.CoreCompileInputs.cache
+E:\Programming\NazybeniMnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.exe
+E:\Programming\NazybeniMnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\TriugulnikNaPaskal.pdb
